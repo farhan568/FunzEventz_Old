@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839275014073",
+    "project_id": "funz-eventz",
+    "storage_bucket": "funz-eventz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839275014073:android:ead0cb7d12a5130ce3f868",
+        "android_client_info": {
+          "package_name": "com.example.funz_eventz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839275014073-6e7gr9pokffj2vekka1qq61mv7e368qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funz_eventz",
+            "certificate_hash": "78b2a339d994a70e41c167e6434e11ade7b69337"
+          }
+        },
+        {
+          "client_id": "839275014073-a86ic4hdl5222a12lbpr1oa6av9tqtd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmPPJQ0c14D-443I9HdjeqE8oP_PxxNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839275014073-a86ic4hdl5222a12lbpr1oa6av9tqtd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
